@@ -1,10 +1,10 @@
 # diSCord-OBhod
 
-diSCord-OBhod чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+Новая версия с поддержкой работы Discord. Стабильнее, быстрее, надежнее
 
 diSCord-OBhod чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/ConureSubway/diSCord-OBhod/releases/latest
-Код: https://github.com/ConureSubway/diSCord-OBhod
+Релиз: https://github.com/conuresubway/diSCord-OBhod/releases/latest
+Код: https://github.com/conuresubway/diSCord-OBhod
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/ConureSubway/diSCord-OBhod
+Страница: https://github.com/conuresubway/diSCord-OBhod
